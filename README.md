@@ -1,59 +1,30 @@
-# DecodeLabs Internship – Data Analytics
+# DecodeLabs Internship – Task 1
 
-This repository contains the projects completed as part of my Data Analytics Internship at DecodeLabs.
+## Project 1 – Data Cleaning & Preparation
 
-## Projects
+### Objective
+Clean and prepare the given dataset for further analysis by identifying and handling data quality issues.
 
-### Project 1 – Data Cleaning & Preparation
+### Work Performed
+- Reviewed the dataset structure and columns.
+- Checked for missing values.
+- Identified duplicate records.
+- Checked for inconsistent data.
+- Cleaned and organized the dataset.
+- Prepared the final dataset for analysis.
 
-**Objective:**  
-Clean and prepare the dataset for further analysis.
-
-**Work Performed:**
-- Checked the dataset for duplicate records.
-- Reviewed the data for missing and inconsistent values.
-- Verified the data structure and columns.
-- Prepared the cleaned dataset for analysis.
-
-**Tools Used:**
+### Tools Used
 - Microsoft Excel
 
-**Project File:**  
-`Project 1 - Data Cleaning/Data_Cleaning_Final.xlsx`
-
----
-
-### Project 2 – Exploratory Data Analysis (EDA)
-
-**Objective:**  
-Analyze the dataset to understand patterns, trends, distributions, and key insights.
-
-**Work Performed:**
-- Calculated basic statistics including Mean, Median, and Count.
-- Created PivotTables for product-wise sales analysis.
-- Analyzed order status distribution.
-- Identified trends in the dataset.
-- Reviewed high-value transactions for potential outliers.
-- Summarized key observations from the analysis.
-
-**Tools Used:**
-- Microsoft Excel
-
-**Project File:**  
-`Project 2 - EDA/EDA_Final.xlsx`
-
----
-
-## Skills Demonstrated
-
+### Skills Demonstrated
 - Data Cleaning
 - Data Preparation
-- Exploratory Data Analysis
-- Descriptive Statistics
 - Data Analysis
-- Analytical Thinking
 - Microsoft Excel
+- Analytical Thinking
 
-## Internship
+### Project File
+`Data_Cleaning_Final.xlsx`
 
+### Internship
 **DecodeLabs – Data Analytics Internship**
